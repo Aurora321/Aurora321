@@ -66,23 +66,23 @@
     "skillList": [
         {
             "skill_name": "JVM",
-            "skill_desc": "技能描述蓝",
+            "skill_desc": "",
             "dataIndex": 0
         },
         {
+            "skill_name": "SpringBoot",
+            "skill_desc": ""
+        },
+        {
             "skill_name": "MySQL",
-            "skill_level": 80,
-            "skill_desc": "MySQL技能描述"
+            "skill_desc": ""
+        },
+        {
+            "skill_name": "Redis",
+            "skill_desc": ""
         }
     ],
     "projectList": [
-        {
-            "project_name": "数据作战室",
-            "project_role": "前端负责人",
-            "project_time": "2019.04 - 2020.06",
-            "project_desc": "面向总裁和高管以及决策 BI 的数字化经营决策和管理协同的数据产品。提供一站式的数据化经营决策和管理协同功能，让高管高效获取指标进展以及决策洞察，并提升管理效率。",
-            "project_content": "1. 独立负责产品从 0 到 1 的开发、产品功能迭代（在项目中具有推动项目进度的经验） 2. 产品体验精雕细琢的打磨 3. 建立稳定性保障机制。目前仍在迭代中，帮助提升高管业务决策效率"
-        },
         {
             "project_name": "低代码开发平台",
             "project_role": "后端开发者",
@@ -98,6 +98,14 @@
             "project_desc": "面向企业内部采购的电商交易平台，致力于为各类商家和消费者搭建高效便捷的交易桥梁。具备完善的商品展示、搜索、下单、支付及物流跟踪等基础功能，为消费者提供流畅的购物体验。",
             "project_content": "使用Java语言和低代码工具进行二次开发，重新设计调整系统架构，从单租户模式重构为支持多租户架构，确保不同租户的数据隔离与安全，同时优化系统性能以应对多租户并发访问。对核心模块如用户/商户管理、订单处理、商品管理等进行改造，使其适应多租户环境，保证系统的稳定性和可扩展性。\n负责新增个性化功能的需求分析与设计，包括租户自定义页面布局、个性化营销工具等功能的开发，满足不同租户的独特业务需求。",
             "dataIndex": 2
+        },
+        {
+            "project_name": "房屋租赁平台",
+            "project_role": "后端开发者",
+            "project_time": "2021.03 - 2021.09",
+            "project_desc": "给不同需求的用户提供房屋出租或租赁服务。",
+            "project_content": "使用Java语言开发，基于SpringBoot+Vue的前后端分离架构，集成了MySQL、MongoDB、Redis等技术。",
+            "dataIndex": 3
         }
     ],
     "workList": [
