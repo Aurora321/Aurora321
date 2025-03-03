@@ -91,7 +91,7 @@
 
     ],
     "aboutme": {
-        "aboutme_desc": "🌱 多年中大型项目经历，专注在后端开发领域\n1. 项目管理: 具有独立跟进和推动项目进度经验，把控研发测试交付进展。\n2. 低代码经验: 通用组件的抽象设计和开发经验，积累了丰富且扎实的多种第三方框架整合经验。\n其它: 大学时期参加过多次校级大创，开发过多个项目（基于MVC架构的书籍管理和个人博客项目，基于前后端分离的书城和房屋租赁项目），积累了前端Vue+Element UI的开发经验，具备一定的自学和探索能力。\n**个人技能：JVM、Spring、SpringBoot、MySQL、MyBatis、RocketMQ、Linux、工作流、MongoDB、计算机网络、Git、Docker等，对Oracle 、pgSQL、达梦、SQL Server等数据库及BI数据可视化、K8S、ELK、Nacos等技术栈有所了解和使用**"
+        "aboutme_desc": "🌱 多年中大型项目经历，专注在后端开发领域\n1. 项目管理: 具有独立跟进和推动项目进度经验，把控研发测试交付进展。\n2. 低代码经验: 通用组件的抽象设计和开发经验，积累了丰富且扎实的多种第三方框架整合经验。\n其它: 大学时期参加过多次校级大创，开发过多个项目（基于MVC架构的书籍管理和个人博客项目，基于前后端分离的书城和房屋租赁项目），积累了前端Vue+Element UI的开发经验，具备一定的自学和探索能力。\n\n个人技能：JVM、Spring、SpringBoot、MySQL、MyBatis、RocketMQ、Linux、工作流、MongoDB、计算机网络、Git、Docker等，对Oracle 、pgSQL、达梦、SQL Server等数据库及BI数据可视化、K8S、ELK、Nacos等技术栈有所了解和使用"
     },
     "theme": {
         "color": "#2f5785",
