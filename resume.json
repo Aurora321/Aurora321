@@ -59,9 +59,7 @@
             "dataIndex": 2
         }
     ],
-    "skillList": {
-"skillList_desc": "JVM、MySQL、Redis"
-},
+    "skillList": "JVM、MySQL、Redis",
     "projectList": [
         {
             "project_name": "低代码开发平台",
