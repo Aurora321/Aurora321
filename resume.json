@@ -36,10 +36,6 @@
         }
     ],
     "awardList": [
-        {
-            "award_info": "前端早早聊 分享 “如何构思和开发开箱即用的可视化图表库 G2Plot”",
-            "award_time": "2021.07"
-        }
     ],
     "workExpList": [
         {
@@ -63,25 +59,9 @@
             "dataIndex": 2
         }
     ],
-    "skillList": [
-        {
-            "skill_name": "JVM",
-            "skill_desc": "",
-            "dataIndex": 0
-        },
-        {
-            "skill_name": "SpringBoot",
-            "skill_desc": ""
-        },
-        {
-            "skill_name": "MySQL",
-            "skill_desc": ""
-        },
-        {
-            "skill_name": "Redis",
-            "skill_desc": ""
-        }
-    ],
+    "skillList": {
+"skillList_desc": "JVM、MySQL、Redis"
+},
     "projectList": [
         {
             "project_name": "低代码开发平台",
